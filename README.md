@@ -1,4 +1,4 @@
-
+![Nitesh - Data Analyst](<assets/profile_banner.png>)
 👋 **Hi, I'm Nitesh**
 
 📊 **Data Analyst | Business Intelligence Consultant**
