@@ -39,7 +39,7 @@ I'm a Data Analyst passionate about transforming raw data into meaningful insigh
       Business Intelligence Dashboard    |    Interactive business reporting              |   Power BI, Paginated Report
       SQL Data Analysis                  |    Data querying and business insights         |   SQL
       Excel Automation                   |    Automated reporting and analysis            |   Excel, VBA
-      Data Analytics                     |    Data processing and analysis                |  Databricks
+      Data Analytics                     |    Data processing and analysis                |   Databricks
 
 
 _Project links will be added as repositories are published._
