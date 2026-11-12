@@ -1,5 +1,4 @@
 
-
 👋 **Hi, I'm Nitesh**
 
 📊 **Data Analyst | Business Intelligence Consultant**
