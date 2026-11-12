@@ -1,4 +1,4 @@
-![Nitesh - Data Analyst](./profile%20banner.png)
+
 
 👋 **Hi, I'm Nitesh**
 
